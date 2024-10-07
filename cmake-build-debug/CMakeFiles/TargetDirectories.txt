@@ -1,0 +1,3 @@
+C:/Users/berna/CLionProjects/projeto_floresta/cmake-build-debug/CMakeFiles/projeto_floresta.dir
+C:/Users/berna/CLionProjects/projeto_floresta/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/berna/CLionProjects/projeto_floresta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
